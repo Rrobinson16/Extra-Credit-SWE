@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OrderProcessorUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-28T02:27:54" hostname="Mac" time="1.492">
+  <properties/>
+  <testcase name="testProcessOrder_InStock()" classname="OrderProcessorUnitTest" time="1.478"/>
+  <testcase name="testProcessOrder_OutOfStock()" classname="OrderProcessorUnitTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
